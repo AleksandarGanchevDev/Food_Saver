@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode user settings
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Build files
+build/
+DerivedData/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# CocoaPods, only if you use CocoaPods
+Pods/
+
+# Carthage, only if you use Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Firebase / Google config
+# Usually you CAN commit GoogleService-Info.plist for normal student/demo apps,
+# but do NOT commit it if it contains sensitive production credentials.
+# GoogleService-Info.plist
+
+# Xcode temporary files
+*.moved-aside
+*.xccheckout
+
+# Archives
+*.xcarchive
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
